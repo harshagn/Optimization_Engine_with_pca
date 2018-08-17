@@ -2,7 +2,8 @@
 Disclaimer: # The idea is modification of the original steps as mentioned in the acknowledge below. I have modified some of the material to suit my requirements for data analysis. 
 
 
-Acknowledgements
+Acknowledgements:
+
 I would like to thank Avril Coghlan, Wellcome Trust Sanger Institute, Cambridge, U.K. for her excellent resource A Little Book of R for Multivariate Analysis and releasing it under a CC-BY-3.0 License, hence, allowing this translation from R to Python. All kudos to her.
 
 As the original, many of the examples in this booklet are inspired by examples in the Open University book, "Multivariate Analysis" (product code M249/03).
